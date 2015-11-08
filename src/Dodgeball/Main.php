@@ -1,5 +1,5 @@
 <?php
-  namespace DodgeBall
+  namespace DodgeBall;
   use pocketmine\plugin\PluginBase;
   use pocketmine\event\Listener;
   use pocketmine\event\entity\ProjectileHitEvent;
